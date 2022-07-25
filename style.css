@@ -1,4 +1,10 @@
 
+/* h1{
+    color: aliceblue;
+    background-color: black;
+    padding-bottom: 1
+    0%;
+} */
 .pancake img{
     border: 1px;
     border-radius: 4px;
@@ -7,9 +13,10 @@
     flex-wrap: wrap;
 }
 
-ul {
-    color:black;
+ul, h1{
+    color:aliceblue;
     font-family: 'Comic Neue', cursive;
+    
 
 }
 
