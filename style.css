@@ -56,3 +56,12 @@ ul {
     padding: 5px;
     width: 150px;
   }
+
+  .pizza-img img{
+    border: 1px;
+    border-radius: 4px;
+    padding: 500px;
+    width: 100px;
+    flex-wrap: wrap;
+}
+  
